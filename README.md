@@ -1,6 +1,4 @@
-# Stunning-bBuilder Project Structure
-
-cognitio-plus-hekuro/react PWA frontend
+# Stunning Builder Project Structure
 ├─ /client           
 │  ├─ /public
 │  ├─ /src
