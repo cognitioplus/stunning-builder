@@ -1,7 +1,7 @@
 # Stunning-bBuilder Project Structure
 
-cognitio-plus-hekuro/
-├─ /client              → React PWA frontend
+cognitio-plus-hekuro/react PWA frontend
+├─ /client           
 │  ├─ /public
 │  ├─ /src
 │  │  ├─ /components
@@ -9,7 +9,7 @@ cognitio-plus-hekuro/
 │  │  └─ index.js
 │  ├─ package.json
 │  └─ README.md
-├─ /server              → Node.js / Express backend
+├─ /server→ Node.js / Express backend
 │  ├─ /routes
 │  │  ├─ pricing.js
 │  │  └─ engagement.js
