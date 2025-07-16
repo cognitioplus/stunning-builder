@@ -1,3 +1,2 @@
-cognitio-plus-hekuro/
 ├── /client     ← React frontend (uses axios here too)
 ├── /server     ← Node.js backend 
